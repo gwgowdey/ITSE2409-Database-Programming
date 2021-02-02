@@ -1,0 +1,1 @@
+SELECT ProductNam FROM Products
